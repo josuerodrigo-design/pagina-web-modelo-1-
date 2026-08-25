@@ -1,1 +1,6 @@
-# pagina-web-modelo-1-
+📂 meu-projeto/
+├── 📄 index.html
+├── 📂 css/
+│   └── 📄 style.css
+└── 📂 js/
+    └── 📄 script.js
